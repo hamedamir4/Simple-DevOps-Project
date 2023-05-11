@@ -3,6 +3,7 @@
   hosts: kubernetes
   # become: true
   user: ubuntu
+  
 
   tasks:
   - name: create a service
