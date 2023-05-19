@@ -1,4 +1,4 @@
-# Pull tomcat latest image from dockerhub 
+# Pull tomcat latest image from dockerhub .
 From tomcat:latest
 
 # Maintainer
